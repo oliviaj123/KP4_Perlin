@@ -1,2 +1,5 @@
-# KP4_Perlin
-with bezier
+# KP4 Perlin noise
+
+with bezier curves
+
+
